@@ -1,4 +1,4 @@
-Library: C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+Library: C:\Users\jbledua\Projects\Project-Horizon\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --platform=Windows
 --backend=burst-llvm-16
 --target=X64_SSE2
@@ -9,10 +9,10 @@ Library: C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\BurstOutput\
 --target-framework=NetFramework
 --linker-options=PdbAltPath="Project-Horizon_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\Burst
+--temp-folder=C:\Users\jbledua\Projects\Project-Horizon\Temp\Burst
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Library\Burst
---output=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+--decode-folder=C:\Users\jbledua\Projects\Project-Horizon\Library\Burst
+--output=C:\Users\jbledua\Projects\Project-Horizon\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10
@@ -125,10 +125,10 @@ Library: C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\BurstOutput\
 --target-framework=NetFramework
 --linker-options=PdbAltPath="Project-Horizon_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\Burst
+--temp-folder=C:\Users\jbledua\Projects\Project-Horizon\Temp\Burst
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Library\Burst
---output=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+--decode-folder=C:\Users\jbledua\Projects\Project-Horizon\Library\Burst
+--output=C:\Users\jbledua\Projects\Project-Horizon\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10
@@ -241,10 +241,10 @@ Library: C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\BurstOutput\
 --target-framework=NetFramework
 --linker-options=PdbAltPath="Project-Horizon_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\Burst
+--temp-folder=C:\Users\jbledua\Projects\Project-Horizon\Temp\Burst
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Library\Burst
---output=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+--decode-folder=C:\Users\jbledua\Projects\Project-Horizon\Library\Burst
+--output=C:\Users\jbledua\Projects\Project-Horizon\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity_NetCode_Generated_Unity_Transforms.Unity_NetCode_Generated_Unity_Transforms_RotationOnlyVariantGhostComponentSerializer, Unity.NetCode, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::AOT_PredictDelta(System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.NetCode.GhostDeltaPredictor&, Unity.NetCode, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)--162603052347d5024edc4f1628e7ac98
@@ -357,10 +357,10 @@ Library: C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\BurstOutput\
 --target-framework=NetFramework
 --linker-options=PdbAltPath="Project-Horizon_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\Burst
+--temp-folder=C:\Users\jbledua\Projects\Project-Horizon\Temp\Burst
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Library\Burst
---output=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+--decode-folder=C:\Users\jbledua\Projects\Project-Horizon\Library\Burst
+--output=C:\Users\jbledua\Projects\Project-Horizon\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity_NetCode_Generated_Unity_Transforms.Unity_NetCode_Generated_Unity_Transforms_RotationOnlyVariantGhostComponentSerializer, Unity.NetCode, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::AOT_PredictDelta(System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.NetCode.GhostDeltaPredictor&, Unity.NetCode, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null)--162603052347d5024edc4f1628e7ac98
@@ -473,10 +473,10 @@ Library: C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\BurstOutput\
 --target-framework=NetFramework
 --linker-options=PdbAltPath="Project-Horizon_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\Burst
+--temp-folder=C:\Users\jbledua\Projects\Project-Horizon\Temp\Burst
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Library\Burst
---output=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+--decode-folder=C:\Users\jbledua\Projects\Project-Horizon\Library\Burst
+--output=C:\Users\jbledua\Projects\Project-Horizon\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Jobs.IJobParallelForExtensions+ParallelForJobStruct`1[[Unity.Entities.Baking.BakeDependencies+CalculateActiveDependenciesJob, Unity.Entities.Hybrid, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Entities.Baking.BakeDependencies+CalculateActiveDependenciesJob&, Unity.Entities.Hybrid, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)--e9ade15c85327400eb76be54a4b6c1b8
@@ -589,10 +589,10 @@ Library: C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\BurstOutput\
 --target-framework=NetFramework
 --linker-options=PdbAltPath="Project-Horizon_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\Burst
+--temp-folder=C:\Users\jbledua\Projects\Project-Horizon\Temp\Burst
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Library\Burst
---output=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+--decode-folder=C:\Users\jbledua\Projects\Project-Horizon\Library\Burst
+--output=C:\Users\jbledua\Projects\Project-Horizon\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Jobs.IJobParallelForExtensions+ParallelForJobStruct`1[[Unity.Entities.Baking.BakeDependencies+CalculateActiveDependenciesJob, Unity.Entities.Hybrid, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Entities.Baking.BakeDependencies+CalculateActiveDependenciesJob&, Unity.Entities.Hybrid, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)--e9ade15c85327400eb76be54a4b6c1b8
@@ -707,10 +707,10 @@ Library: C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\BurstOutput\
 --float-mode=Fast
 --linker-options=PdbAltPath="Project-Horizon_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\Burst
+--temp-folder=C:\Users\jbledua\Projects\Project-Horizon\Temp\Burst
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Library\Burst
---output=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+--decode-folder=C:\Users\jbledua\Projects\Project-Horizon\Library\Burst
+--output=C:\Users\jbledua\Projects\Project-Horizon\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Jobs.IJobForExtensions+ForJobStruct`1[[UnityEngine.Rendering.Universal.ZBinningJob, Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(UnityEngine.Rendering.Universal.ZBinningJob&, Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)--77fc393cb521ac129b1392d4eb94d29a
@@ -727,10 +727,10 @@ Library: C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\BurstOutput\
 --float-mode=Fast
 --linker-options=PdbAltPath="Project-Horizon_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\Burst
+--temp-folder=C:\Users\jbledua\Projects\Project-Horizon\Temp\Burst
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Library\Burst
---output=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+--decode-folder=C:\Users\jbledua\Projects\Project-Horizon\Library\Burst
+--output=C:\Users\jbledua\Projects\Project-Horizon\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Jobs.IJobForExtensions+ForJobStruct`1[[UnityEngine.Rendering.Universal.ZBinningJob, Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(UnityEngine.Rendering.Universal.ZBinningJob&, Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)--77fc393cb521ac129b1392d4eb94d29a
@@ -745,10 +745,10 @@ Library: C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\BurstOutput\
 --target-framework=NetFramework
 --linker-options=PdbAltPath="Project-Horizon_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\Burst
+--temp-folder=C:\Users\jbledua\Projects\Project-Horizon\Temp\Burst
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Library\Burst
---output=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+--decode-folder=C:\Users\jbledua\Projects\Project-Horizon\Library\Burst
+--output=C:\Users\jbledua\Projects\Project-Horizon\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Jobs.IJobParallelForExtensions+ParallelForJobStruct`1[[UnityEngine.Rendering.GPUInstanceDataBuffer+ConvertCPUInstancesToGPUInstancesJob, Unity.RenderPipelines.GPUDriven.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(UnityEngine.Rendering.GPUInstanceDataBuffer+ConvertCPUInstancesToGPUInstancesJob&, Unity.RenderPipelines.GPUDriven.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)--a917331aad44b603aa293fb2ddd84845
@@ -861,10 +861,10 @@ Library: C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\BurstOutput\
 --target-framework=NetFramework
 --linker-options=PdbAltPath="Project-Horizon_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\Burst
+--temp-folder=C:\Users\jbledua\Projects\Project-Horizon\Temp\Burst
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Library\Burst
---output=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+--decode-folder=C:\Users\jbledua\Projects\Project-Horizon\Library\Burst
+--output=C:\Users\jbledua\Projects\Project-Horizon\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Jobs.IJobParallelForExtensions+ParallelForJobStruct`1[[UnityEngine.Rendering.GPUInstanceDataBuffer+ConvertCPUInstancesToGPUInstancesJob, Unity.RenderPipelines.GPUDriven.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(UnityEngine.Rendering.GPUInstanceDataBuffer+ConvertCPUInstancesToGPUInstancesJob&, Unity.RenderPipelines.GPUDriven.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)--a917331aad44b603aa293fb2ddd84845
@@ -977,10 +977,10 @@ Library: C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\BurstOutput\
 --target-framework=NetFramework
 --linker-options=PdbAltPath="Project-Horizon_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\Burst
+--temp-folder=C:\Users\jbledua\Projects\Project-Horizon\Temp\Burst
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Library\Burst
---output=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+--decode-folder=C:\Users\jbledua\Projects\Project-Horizon\Library\Burst
+--output=C:\Users\jbledua\Projects\Project-Horizon\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Jobs.IJobParallelForExtensions+ParallelForJobStruct`1[[Unity.Entities.EntityManager+RemapChunksFilteredJob, Unity.Entities, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Entities.EntityManager+RemapChunksFilteredJob&, Unity.Entities, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)--133cdc8adea96c01df559b08afa2ef56
@@ -1093,10 +1093,10 @@ Library: C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\BurstOutput\
 --target-framework=NetFramework
 --linker-options=PdbAltPath="Project-Horizon_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\Burst
+--temp-folder=C:\Users\jbledua\Projects\Project-Horizon\Temp\Burst
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Library\Burst
---output=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+--decode-folder=C:\Users\jbledua\Projects\Project-Horizon\Library\Burst
+--output=C:\Users\jbledua\Projects\Project-Horizon\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Jobs.IJobParallelForExtensions+ParallelForJobStruct`1[[Unity.Entities.EntityManager+RemapChunksFilteredJob, Unity.Entities, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.Entities.EntityManager+RemapChunksFilteredJob&, Unity.Entities, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)--133cdc8adea96c01df559b08afa2ef56
@@ -1209,10 +1209,10 @@ Library: C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\BurstOutput\
 --target-framework=NetFramework
 --linker-options=PdbAltPath="Project-Horizon_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\Burst
+--temp-folder=C:\Users\jbledua\Projects\Project-Horizon\Temp\Burst
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Library\Burst
---output=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+--decode-folder=C:\Users\jbledua\Projects\Project-Horizon\Library\Burst
+--output=C:\Users\jbledua\Projects\Project-Horizon\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=TransformBakingSystem, Unity.Transforms.Hybrid, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::__codegen__OnCreate(System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)--882d20751c132b04840944b83cdc71ca
@@ -1234,10 +1234,10 @@ Library: C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\BurstOutput\
 --target-framework=NetFramework
 --linker-options=PdbAltPath="Project-Horizon_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\Burst
+--temp-folder=C:\Users\jbledua\Projects\Project-Horizon\Temp\Burst
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Library\Burst
---output=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+--decode-folder=C:\Users\jbledua\Projects\Project-Horizon\Library\Burst
+--output=C:\Users\jbledua\Projects\Project-Horizon\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=TransformBakingSystem, Unity.Transforms.Hybrid, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::__codegen__OnCreate(System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)--882d20751c132b04840944b83cdc71ca
@@ -1259,10 +1259,10 @@ Library: C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\BurstOutput\
 --target-framework=NetFramework
 --linker-options=PdbAltPath="Project-Horizon_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\Burst
+--temp-folder=C:\Users\jbledua\Projects\Project-Horizon\Temp\Burst
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Library\Burst
---output=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+--decode-folder=C:\Users\jbledua\Projects\Project-Horizon\Library\Burst
+--output=C:\Users\jbledua\Projects\Project-Horizon\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Jobs.IJobExtensions+JobStruct`1[[Unity.NetCode.GhostPredictionHistorySystem+CleanupPredictionStateJob, Unity.NetCode, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.NetCode.GhostPredictionHistorySystem+CleanupPredictionStateJob&, Unity.NetCode, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)--88c7c1936cc01d015fa2c163b149e728
@@ -1375,10 +1375,10 @@ Library: C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\BurstOutput\
 --target-framework=NetFramework
 --linker-options=PdbAltPath="Project-Horizon_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\Burst
+--temp-folder=C:\Users\jbledua\Projects\Project-Horizon\Temp\Burst
 --key-folder=C:/Program Files/Unity/Hub/Editor/6000.0.28f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Library\Burst
---output=C:\Users\JosiahLedua\Documents\GitHub\Project-Horizon\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+--decode-folder=C:\Users\jbledua\Projects\Project-Horizon\Library\Burst
+--output=C:\Users\jbledua\Projects\Project-Horizon\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Jobs.IJobExtensions+JobStruct`1[[Unity.NetCode.GhostPredictionHistorySystem+CleanupPredictionStateJob, Unity.NetCode, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]], UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::Execute(Unity.NetCode.GhostPredictionHistorySystem+CleanupPredictionStateJob&, Unity.NetCode, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|System.IntPtr, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089|Unity.Jobs.LowLevel.Unsafe.JobRanges&, UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null|System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089)--88c7c1936cc01d015fa2c163b149e728
