@@ -11,6 +11,7 @@ To use these prebuilt files:
    - **Client Builds:** For playing the game.
      - [Windows](./Client/Windows)
      - [Linux](./Client/Linux)
+     - [Android](./Client/Android)
    - **Server Builds:** For hosting dedicated multiplayer games.
      - [Windows](./Server/Windows)
      - [Linux](./Server/Linux)
